@@ -1,0 +1,3 @@
+Link para dowload de Git: https://git-scm.com/downloads
+
+O Git é um terminal estendido para otimizar o uso do Git.
