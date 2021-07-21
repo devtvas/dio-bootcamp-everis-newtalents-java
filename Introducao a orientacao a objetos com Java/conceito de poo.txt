@@ -1,0 +1,6 @@
+A programacao orientada a objetos conhecida como POO, é onde o desenvolvedor tem de comecar a pensar fora da caixa, a imaginar uma forma aonde sera preciso recorrer ao mundo real para o desenvolvimento das aplicacoes, pois hoje toda a programacao em Java é orientada a objetos.
+
+Para obter esse entendimento, é necessario conhecer alguns dos pilares da Orientacao a Objetos que sao: Abstracao, Encapsulamento, Heranca e polimorfismo.
+
+Link ref:
+https://www.devmedia.com.br/abstracao-encapsulamento-e-heranca-pilares-da-poo-em-java/26366
