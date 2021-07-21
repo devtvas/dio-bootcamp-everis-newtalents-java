@@ -1,0 +1,21 @@
+Programacao Estruturada 
+
+é linear e estruturada como o proprio nome diz, ou seja, as tomadas de decisoes sao feitas de forma ordenada, por meio de verificaoes condicionais e interacoes, utilizando como recursos variaveis e rotinas para o desenvolvimento dos programas.
+
+Desvantagens
+
+Na verdade nao ha problema algum porem, quando utilizada para programas complexos, a organizacao do codigo torna-se um desafio, justamente pela estrutura do mesmo nao oferecer uma forma simples para agrupar os dados e protege-lo do programador todo o trabalho.
+
+Mitos da programacao orientacao a objetos
+
+Dizer que simplesmente o uso de uma linguagem orientada a objetos faz o seu programa ser automaticamente orientado a objetos é um mito, pois, é possivel e muito comum termos programas em linguagem com suporte a POO que utilizam componentes POO e a implementacao é completamente estruturada.
+
+Simula 67
+
+Primeira linguagem orientada a objetos foi desenvolvida nos anos 60 pelos noruegueses, Ole-Johan e Kristen Ntgaard. O Simula67 continha muitos dos conceitos das principais linguagens OO de hoje, como:
+-classes e objetos;
+-Subclasses;
+-Metodos virtuais;
+-Frameeorks;
+-Concorrencia;
+-Gerenciamento de memoria.	
